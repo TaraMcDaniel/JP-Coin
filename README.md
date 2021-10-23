@@ -1,6 +1,8 @@
 # JP-Coin
 Fintech Saturday JPCoin Case Study
 
+What is the background of your company? What do they do? Who are their competitors?
+uses different cryptocurrency for payments both domestic and international.  goldman sachs, citi bank and other institutions 
 
 
 
